@@ -14,8 +14,8 @@ body {
 }
 
 #myButton {
-    color: black;
-    background-color: lightgray;
+    color: rgb(255, 255, 255);
+    background-color: rgb(8, 16, 255);
     font-weight: bold;
 }
 
@@ -23,3 +23,8 @@ body {
     color: black;
     text-shadow: 1px 1px 4px grey;
 }
+
+/* .turn{
+    transform: rotate(15deg);
+
+} */
